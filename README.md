@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-I am a data scientist with a bachelor's degree in computing and data science and I have a passion towards mobile development.
+I am a data scientist with a bachelor's degree in computing and data science and I have a passion towards React development.
 
 *   🌍  I'm based in Alexandria, Egypt
 *   ✉️  You can contact me at [mohabyousry@outlook.com](mailto:mohabyousry@outlook.com)
