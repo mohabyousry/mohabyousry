@@ -1,12 +1,12 @@
 # Hi there! I'm Mohab Yousry ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### 📊 Data Engineer & Data Scientist | Ex-Software Engineer
-[cite_start]I am a Data Professional with a Bachelor's in Computing and Data Science from Alexandria University[cite: 6]. [cite_start]With a professional background as a Software Engineer in the Egyptian Military[cite: 8], I bridge the gap between robust software architecture and high-performance data pipelines.
+### 📊 Data Engineer & Data Scientist 
+I am a Data Professional with a Bachelor's in Computing and Data Science from Alexandria University. Passionate about building robust data pipelines and turning raw data into business value.
 
-- [cite_start]🌍 Based in **Alexandria, Egypt**[cite: 4, 19].
-- [cite_start]🚀 Specialized in **Data Orchestration (Airflow)** [cite: 39][cite_start], **Machine Learning**[cite: 34], and **Modern Data Warehousing**.
+- 🌍 Based in **Alexandria, Egypt**.
+- 🚀 Specialized in **Data Orchestration (Airflow)**, **Machine Learning**, and **Modern Data Warehousing**.
 - 🛠️ Currently focusing on **Medallion Architecture** and **ETL/ELT** pipelines.
-- [cite_start]💻 React & Mobile Development are my creative outlets for personal projects[cite: 29, 43].
+- 💻 React & Mobile Development are my creative outlets for personal projects.
 
 ---
 
@@ -22,20 +22,20 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-* [cite_start]**Core:** Python, SQL, R, JavaScript[cite: 33].
-* [cite_start]**Data Tools:** Airflow [cite: 39][cite_start], Spark, Pandas, NumPy, Excel[cite: 42].
-* [cite_start]**Database:** SQL Server, Oracle[cite: 47].
-* [cite_start]**ML/AI:** Scikit-learn, TensorFlow [cite: 35][cite_start], NLP, Semantic Search[cite: 12].
+* **Core:** Python, SQL, R, JavaScript.
+* **Data Tools:** Airflow, Pandas, NumPy, Excel.
+* **Database:** SQL Server, Oracle.
+* **ML/AI:** Scikit-learn, TensorFlow, NLP, Semantic Search.
 
 #### **Hobbies & Personal Interests (Full-Stack)**
-* [cite_start]**Web:** React, Node.js, Express, Tailwind CSS[cite: 44, 45].
-* [cite_start]**Mobile:** React Native, Expo, Firebase[cite: 30, 51].
+* **Web:** React, Node.js, Express, Tailwind CSS.
+* **Mobile:** React Native, Expo, Firebase.
 
 ---
 
 ### 💼 Professional Highlight
-> [cite_start]**Software Engineer @ Egyptian Military** [cite: 8]
-> [cite_start]Developed a centralized asset tracking system integrating warranty and support lifecycles. [cite_start]Built executive dashboards that significantly improved decision-making efficiency and reduced operational overhead[cite: 9, 10].
+> **Software Engineer @ Egyptian Military**
+> Developed a centralized asset tracking system integrating warranty and support lifecycles. Built executive dashboards that significantly improved decision-making efficiency and reduced operational overhead.
 
 ---
 
