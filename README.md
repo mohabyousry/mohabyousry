@@ -6,6 +6,7 @@ I am a Data Professional with a Bachelor's in Computing and Data Science from Al
 - 🌍 Based in **Alexandria, Egypt**.
 - 🚀 Specialized in **Data Analysis**, **Machine Learning**, and **Modern Data Warehousing**.
 - 🛠️ Currently focusing on **Medallion Architecture** and **ETL/ELT** pipelines.
+- 🔍 Former Big Data & ML Intern at **Bibliotheca Alexandrina**, working on semantic search and NLP for web archives.
 - 💻 React & Mobile Development are my creative outlets for personal projects.
 
 ---
