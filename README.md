@@ -4,7 +4,7 @@
 I am a Data Professional with a Bachelor's in Computing and Data Science from Alexandria University. Passionate about building robust data pipelines and turning raw data into business value.
 
 - 🌍 Based in **Alexandria, Egypt**.
-- 🚀 Specialized in **Data Orchestration (Airflow)**, **Machine Learning**, and **Modern Data Warehousing**.
+- 🚀 Specialized in **Data Analysis**, **Machine Learning**, and **Modern Data Warehousing**.
 - 🛠️ Currently focusing on **Medallion Architecture** and **ETL/ELT** pipelines.
 - 💻 React & Mobile Development are my creative outlets for personal projects.
 
@@ -39,15 +39,8 @@ I am a Data Professional with a Bachelor's in Computing and Data Science from Al
 
 ---
 
-### 📈 GitHub Statistics
-<p align="left">
-  <a href="http://www.github.com/mohabyousry">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohabyousry&show_icons=true&theme=tokyonight&count_private=true" alt="Mohab's Stats" />
-  </a>
-  <a href="https://github.com/mohabyousry">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabyousry&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
+📈 GitHub Statistics
+<p align="left"> <a href="https://github.com/mohabyousry"> <img src="https://github-readme-stats.vercel.app/api?username=mohabyousry&show_icons=true&theme=radical&count_private=true" alt="Mohab's Stats" /> </a> <br /> <a href="https://github.com/mohabyousry"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabyousry&layout=compact&theme=radical&hide=java,javascript" alt="Top Languages" /> </a> </p>
 
 ---
 
