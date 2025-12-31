@@ -1,32 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohab Yousry
-====================================================================================================================================
+# Hi there! I'm Mohab Yousry ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Data Scientist
---------------
+### 📊 Data Engineer & Data Scientist | Ex-Software Engineer
+[cite_start]I am a Data Professional with a Bachelor's in Computing and Data Science from Alexandria University[cite: 6]. [cite_start]With a professional background as a Software Engineer in the Egyptian Military[cite: 8], I bridge the gap between robust software architecture and high-performance data pipelines.
 
-I am a data scientist with a bachelor's degree in computing and data science and I have a passion towards React development.
+- [cite_start]🌍 Based in **Alexandria, Egypt**[cite: 4, 19].
+- [cite_start]🚀 Specialized in **Data Orchestration (Airflow)** [cite: 39][cite_start], **Machine Learning**[cite: 34], and **Modern Data Warehousing**.
+- 🛠️ Currently focusing on **Medallion Architecture** and **ETL/ELT** pipelines.
+- [cite_start]💻 React & Mobile Development are my creative outlets for personal projects[cite: 29, 43].
 
-*   🌍  I'm based in Alexandria, Egypt
-*   ✉️  You can contact me at [mohabyousry@outlook.com](mailto:mohabyousry@outlook.com)
-*   🧠  I'm learning React Native
-*   🤝  I'm open to collaborating on projects
-                    
-### Skills
+---
 
+### 🛠️ Tech Stack & Skills
+
+#### **Data Engineering & Science**
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### Socials
+* [cite_start]**Core:** Python, SQL, R, JavaScript[cite: 33].
+* [cite_start]**Data Tools:** Airflow [cite: 39][cite_start], Spark, Pandas, NumPy, Excel[cite: 42].
+* [cite_start]**Database:** SQL Server, Oracle[cite: 47].
+* [cite_start]**ML/AI:** Scikit-learn, TensorFlow [cite: 35][cite_start], NLP, Semantic Search[cite: 12].
 
-<p align="left"> <a href="https://www.github.com/mohabyousry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohab-yousry" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+#### **Hobbies & Personal Interests (Full-Stack)**
+* [cite_start]**Web:** React, Node.js, Express, Tailwind CSS[cite: 44, 45].
+* [cite_start]**Mobile:** React Native, Expo, Firebase[cite: 30, 51].
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+### 💼 Professional Highlight
+> [cite_start]**Software Engineer @ Egyptian Military** [cite: 8]
+> [cite_start]Developed a centralized asset tracking system integrating warranty and support lifecycles. [cite_start]Built executive dashboards that significantly improved decision-making efficiency and reduced operational overhead[cite: 9, 10].
 
-<a href="http://www.github.com/mohabyousry"><img src="https://github-readme-stats.vercel.app/api?username=mohabyousry&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohabyousry's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/mohabyousry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohabyousry&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 📈 GitHub Statistics
+<p align="left">
+  <a href="http://www.github.com/mohabyousry">
+    <img src="https://github-readme-stats.vercel.app/api?username=mohabyousry&show_icons=true&theme=tokyonight&count_private=true" alt="Mohab's Stats" />
+  </a>
+  <a href="https://github.com/mohabyousry">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabyousry&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </a>
+</p>
 
-<a href="https://github.com/mohabyousry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohabyousry&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohab-yousry" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohabyousry@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
